@@ -1,0 +1,2 @@
+email.attach(instance.insurance_doc.url.name, instance.insurance_doc.url.read(), instance.insurance_doc.url.content_type)
+email.attach(instance.insurance_doc.name, instance.insurance_doc.read(), instance.insurance_doc.content_type)
